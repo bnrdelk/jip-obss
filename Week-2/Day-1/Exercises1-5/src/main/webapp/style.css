@@ -1,0 +1,21 @@
+.container {
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+    background-color: lightblue;
+    border-radius: 5px;
+    border-width: medium;
+}
+
+h1 {
+    color: cadetblue;
+}
+
+a {
+    font-style: italic;
+    color: cadetblue;
+}
+
+h2 {
+    color: red;
+}

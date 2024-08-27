@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day-2/BusReservation/BusReservation.iml" filepath="$PROJECT_DIR$/Day-2/BusReservation/BusReservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-4/FunctionalInterface/FunctionalInterface.iml" filepath="$PROJECT_DIR$/Day-4/FunctionalInterface/FunctionalInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-1/GradeCalculator/GradeCalculator.iml" filepath="$PROJECT_DIR$/Day-1/GradeCalculator/GradeCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-3/HandlingExceptions/HandlingExceptions.iml" filepath="$PROJECT_DIR$/Day-3/HandlingExceptions/HandlingExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-1/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/Day-1/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-3/LongestReversedString/LongestReversedString.iml" filepath="$PROJECT_DIR$/Day-3/LongestReversedString/LongestReversedString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-3/OccurrencesOfWords/OccurrencesOfWords.iml" filepath="$PROJECT_DIR$/Day-3/OccurrencesOfWords/OccurrencesOfWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-1/OldOrYoung/OldOrYoung.iml" filepath="$PROJECT_DIR$/Day-1/OldOrYoung/OldOrYoung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-2/Pen/Pen.iml" filepath="$PROJECT_DIR$/Day-2/Pen/Pen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-2/day-2-challenge/Shape/Shape.iml" filepath="$PROJECT_DIR$/Day-2/day-2-challenge/Shape/Shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-4/ShoppingCart/ShoppingCart.iml" filepath="$PROJECT_DIR$/Day-4/ShoppingCart/ShoppingCart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-2/day-2-challenge/ShoppingCart/ShoppingCart1.iml" filepath="$PROJECT_DIR$/Day-2/day-2-challenge/ShoppingCart/ShoppingCart1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-4/Streams/Streams.iml" filepath="$PROJECT_DIR$/Day-4/Streams/Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-4/StudentStreams/StudentStreams.iml" filepath="$PROJECT_DIR$/Day-4/StudentStreams/StudentStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-3/UserMemoryService/UserMemoryService.iml" filepath="$PROJECT_DIR$/Day-3/UserMemoryService/UserMemoryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-5/UserMemoryServiceJDBC/UserMemoryServiceJDBC.iml" filepath="$PROJECT_DIR$/Day-5/UserMemoryServiceJDBC/UserMemoryServiceJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Week-1.iml" filepath="$PROJECT_DIR$/.idea/Week-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-1/day-1-challenge/day-1-challenge.iml" filepath="$PROJECT_DIR$/Day-1/day-1-challenge/day-1-challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-3/day-3-challenge/day-3-challenge.iml" filepath="$PROJECT_DIR$/Day-3/day-3-challenge/day-3-challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-4/day-4-challenge/day-4-challenge.iml" filepath="$PROJECT_DIR$/Day-4/day-4-challenge/day-4-challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-5/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/Day-5/jdbc/jdbc.iml" />
+    </modules>
+  </component>
+</project>
